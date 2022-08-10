@@ -8,4 +8,4 @@ Para testa a solução, siga os seguintes passos:
 
 - Para testar, basta trocar o valor atribuído para a variável 'n1' e clicar no botão azul escrito "Run".
 
-![DartPad](https://photos.app.goo.gl/qKRBQSpw5UQcwC3K8)
+![](https://lh3.googleusercontent.com/pw/AL9nZEW9kwlvJBMYlzwufMBghJsuuyufO9dmKoZ5j-onCUxdlm71ZhLiz6a3boRj4L_z1CVdqgmNCawgefMFruBn9cf0Zo0KMB4CkK7LoRiR5eQO4GHHZ_SEw1JJCeLIREKYp4GdFWyFYT3wrD9KU1tH18aH=w1913-h958-no?authuser=0)
