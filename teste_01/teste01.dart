@@ -4,13 +4,13 @@ void main() {
   int res = 0;
   int n = n1 - 1;
 
-  for (; n >= 0; n--) {
+  for (; n > 0; n--) {
     //print('n atual = $n');
     if (n % 3 == 0) {
-      print('O número $n será somado, pois é divisivel por 3.');
+      print('O número $n será somado, pois é divisível por 3.');
       res += n;
     } else if (n % 5 == 0) {
-      print('O número $n será somado, pois é divisivel por 5.');
+      print('O número $n será somado, pois é divisível por 5.');
       res += n;
     }
   }
