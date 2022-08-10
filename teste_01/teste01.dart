@@ -1,5 +1,5 @@
 void main() {
-  int n1 = 11; //TROQUE O NÚMERO 0 DA VARIÁVEL n1 PELO NÚMERO DESEJADO:
+  int n1 = 11; //TROQUE O NÚMERO 11 DA VARIÁVEL n1 PELO NÚMERO DESEJADO:
 
   int res = 0;
   int n = n1 - 1;
